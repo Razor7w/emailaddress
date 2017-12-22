@@ -1,2 +1,4 @@
 db.php
 phpMailer_Master/config.php
+sendGrid/config.php
+php/conexion.php
